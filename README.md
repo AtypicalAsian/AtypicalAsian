@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python (just a beginner tho)
 - 💞️ I’m looking to collaborate on any simple projects for beginners to gain experience and broaden my understanding of Computer Science 
 - 📫 How to reach me: 
-       1. Email: nicnguyen2702@gmail.com
+      My Email: nicnguyen2702@gmail.com
 
 <!---
 AtypicalAsian/AtypicalAsian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
