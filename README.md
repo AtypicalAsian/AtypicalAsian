@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AtypicalAsian
-- 👀 I’m a sophomore pursuing a BS. in Computer Science @ Deniso University ^^
+- 👀 I’m a sophomore pursuing a BS. in Computer Science @ Denison University ^^
 - 🌱 I’m proficient with Python and C++ and have a solid understanding of OOP principles alongside common data structures and algorithms. 
 - 💞️ I’m striving to become a Full Stack Developer.  
 - 📫 How to reach me: <br/>
