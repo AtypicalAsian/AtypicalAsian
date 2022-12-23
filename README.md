@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AtypicalAsian
-- 👀 I’m interested in Web App Development, Machine Learning and new technology ^^
-- 🌱 I’m familiar with Python and C++
-- 💞️ I’m looking to collaborate on any simple projects for beginners to gain experience and broaden my understanding of Computer Science 
-- 📫 How to reach me: 
+- 👀 I’m a sophomore pursuing a BS. in Computer Science @ Deniso University ^^
+- 🌱 I’m proficient with Python and C++ and have a solid understanding of OOP principles alongside common data structures and algorithms. 
+- 💞️ I’m striving to become a Full Stack Developer.  
+- 📫 How to reach me: <br/>
       My Email: nicnguyen2702@gmail.com
 
 <!---
