@@ -41,7 +41,3 @@ View my resume <a href="https://drive.google.com/drive/u/2/home">here</a>
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBsamE4OGExc2J4aHk4eDh3d3M1b3UyYnFxMGJ3cHNvOGxtMWU0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scGEXUBdf7G48/giphy.gif" width="100%" height="100%" style="border: 20px solid #000000; border-radius: 10px;" />
 </div>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
