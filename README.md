@@ -7,6 +7,7 @@ Reach out to me at <a href="mailto:nicnguyen2702@gmail.com">nicnguyen2702@gmail.
 - 🎓 Rising Senior @ Denison University
 - ☁️ Interested in Full Stack Development, Machine Learning, and Cloud Computing
 - 😊 I’m open to Software Engineer New Grad Positions
+- Check out my [<a href="https://nicolas-nguyen.vercel.app/">personal website</a>] to get to know me better
 
 ### Working on: 🚀
 
