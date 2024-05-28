@@ -13,7 +13,7 @@ Reach out to me at <a href="mailto:nicnguyen2702@gmail.com">nicnguyen2702@gmail.
 
 - Building Climate Cruise, a web application that recommends best transportation options tailored to current weather conditions
 - Creating a snippet manager to store, categorize and access code snippets for a streamlined workflow
-- Developing a real-time chat app with GraphQL and NestJS
+- Developing BuzzTalk, a fullstack real-time chat application
 - Reading Hoffstein, Pipher and Silverman's paper on <a href="https://www.ntru.org/f/hps98.pdf">NTRU cryptosystem</a>
 - Solving more Leetcode problems - [<a href="https://leetcode.com/u/itsbi03/">My Leetcode Profile</a>]
 
