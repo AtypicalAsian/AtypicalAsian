@@ -18,7 +18,7 @@ Reach out to me at <a href="mailto:nicnguyen2702@gmail.com">nicnguyen2702@gmail.
 - Solving more Leetcode problems - [<a href="https://leetcode.com/u/itsbi03/">My Leetcode Profile</a>]
 
 ### My Resume
-View my resume <a href="https://drive.google.com/drive/u/2/home">here</a>
+View my resume <a href="https://drive.google.com/file/d/1X-a0W0MKBrsg1RITohG5__1XkZ-sxjlR/view?usp=sharing">here</a>
 
 ---
 <div>
