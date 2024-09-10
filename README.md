@@ -3,7 +3,7 @@ Reach out to me at <a href="mailto:nicnguyen2702@gmail.com">nicnguyen2702@gmail.
 
 ### About Me 🥸
 
-- 👩🏻‍💻 SWE Intern @ Fair Observer, prev @ NCR Voyix
+- 👩🏻‍💻 SWE Intern @ Fair Observer
 - 🎓 Senior @ Denison University
 - ☁️ Interested in Full Stack Development and Cloud Computing
 - 😊 I’m open to New Grad Software Engineer/Developer Positions
