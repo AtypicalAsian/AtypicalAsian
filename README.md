@@ -3,23 +3,22 @@ Reach out to me at <a href="mailto:nicnguyen2702@gmail.com">nicnguyen2702@gmail.
 
 ### About Me 🥸
 
-- 👩🏻‍💻 SWE Intern @ Fair Observer
+- 👩🏻‍💻 ex-SWE Intern @ NCR Voyix, Fair Observer
 - 🎓 Senior @ Denison University
 - ☁️ Interested in Full Stack Development and Cloud Computing
 - 😊 I’m open to New Grad Software Engineer/Developer Positions
 - 🦸🏻‍♂️ Marvel, DC and comics nerd
-- Check out my <a href="https://nicolas-nguyen.vercel.app/">personal website</a> to get to know me better
+- Check out my <a href="https://nic-nguyen-dev.vercel.app/">personal website</a> to get to know me better
 
 ### Working on: 🚀
 
-- Building Climate Cruise, a web application that recommends best transportation options tailored to current weather conditions
-- Creating a snippet manager to store, categorize and access code snippets for a streamlined workflow
-- Developing BuzzTalk, a fullstack real-time chat application
+- Getting my AWS CPP and Associate Developer certifications
+- Building a tech ticketing system for IT issue tracking and resolution 
 - Reading Hoffstein, Pipher and Silverman's paper on <a href="https://www.ntru.org/f/hps98.pdf">NTRU cryptosystem</a>
 - Solving more Leetcode problems - [<a href="https://leetcode.com/u/itsbi03/">My Leetcode Profile</a>]
 
 ### My Resume
-View my resume <a href="https://drive.google.com/file/d/1VOce7q-ty5khbps1US8NP72VezkNyLOg/view?usp=sharing">here</a>
+View my resume <a href="https://drive.google.com/file/d/167D7KeQ42CLfcJLgpUBPT6fee6M5K1Hl/view">here</a>
 
 ---
 <div>
