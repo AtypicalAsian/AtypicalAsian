@@ -12,9 +12,7 @@ Reach out to me at <a href="mailto:nicnguyen2702@gmail.com">nicnguyen2702@gmail.
 ### Working on: 🚀
 
 - Getting my AWS CPP and Associate Developer certifications
-- Building a tech ticketing system for IT issue tracking and resolution 
-- Reading Hoffstein, Pipher and Silverman's paper on <a href="https://www.ntru.org/f/hps98.pdf">NTRU cryptosystem</a>
-- Solving more Leetcode problems - [<a href="https://leetcode.com/u/itsbi03/">My Leetcode Profile</a>]
+- Building my own Redis
 
 ### My Resume
 View my resume <a href="https://drive.google.com/file/d/167D7KeQ42CLfcJLgpUBPT6fee6M5K1Hl/view">here</a>
