@@ -3,9 +3,8 @@ Reach out to me at <a href="mailto:nicnguyen2702@gmail.com">nicnguyen2702@gmail.
 
 ### About Me 🥸
 
-- 👩🏻‍💻 Incoming SWE @ Meta
-- 🎓 Senior @ Denison University
-- ☁️ Interested in Full Stack Development and Cloud Computing
+- 👩🏻‍💻 SWE @ Meta
+- ☁️ Interested in Cloud Computing
 - 🦸🏻‍♂️ Marvel, DC and comics nerd  
 - Check out my <a href="https://nic-nguyen-dev.vercel.app/">personal website</a> to get to know me better
 
