@@ -14,7 +14,7 @@ Reach out to me at <a href="mailto:nicnguyen2702@gmail.com">nicnguyen2702@gmail.
 - Learning and Building gRPC API in Go
 
 ### My Resume
-View my resume <a href="https://drive.google.com/file/d/167D7KeQ42CLfcJLgpUBPT6fee6M5K1Hl/view">here</a>
+View my resume <a href="https://drive.google.com/file/d/167D7KeQ42CLfcJLgpUBPT6fee6M5K1Hl/view?usp=sharing">here</a>
 
 ---
 <div>
