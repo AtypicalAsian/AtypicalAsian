@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi , I'm Nicolas Nguyen</b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNms4ODkxMGlwNXV0aDUwdW9qMHRpNnpiODY4M3RxM3d5eHB5eGlpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pcUHgRNcUL3H8qmWEl/giphy.gif" width="80"></h1>
-Reach out to me at <a href="mailto:nicnguyen2702@gmail.com">nicnguyen2702@gmail.com</a> or <a href="https://www.linkedin.com/in/nic2702/">LinkedIn</a>
+Reach out to me at <a href="mailto:nicnguyen.work@proton.me">nicnguyen.work@proton.me</a> or <a href="https://www.linkedin.com/in/nic2702/">LinkedIn</a>
 
 ### About Me 🥸
 
