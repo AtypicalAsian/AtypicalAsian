@@ -5,7 +5,7 @@ Reach out to me at <a href="mailto:nicnguyen.work@proton.me">nicnguyen.work@prot
 
 - ☁️ Interested in Cloud Computing and Distributed Systems
 - 🦸🏻‍♂️ Marvel, DC and comics nerd  
-- Check out my <a href="https://nic-nguyen-dev.vercel.app/">personal website</a> to get to know me better
+- Check out my <a href="https://nic-nguyen.com/">personal website</a> to get to know me better
 
 ### Working on: 🚀
 
