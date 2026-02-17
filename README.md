@@ -2,15 +2,15 @@
 Reach out to me at <a href="mailto:nicnguyen.work@proton.me">nicnguyen.work@proton.me</a> or <a href="https://www.linkedin.com/in/nic2702/">LinkedIn</a>
 
 ### About Me 🥸
-
+- 👨‍💻 Builder of software
 - ☁️ Interested in Cloud Computing and Distributed Systems
 - 🦸🏻‍♂️ Marvel, DC and comics nerd  
 - Check out my <a href="https://nic-nguyen.com/">personal website</a> to get to know me better
 
 ### Working on 🚀
-
+- Automating manual processes
 - Getting my AWS CPP and Associate Developer certifications
-- Agentic AI Design Patterns
+- Building Redis from scratch in Go
 
 ### My Resume
 View my resume <a href="https://drive.google.com/file/d/1leyBIqw0hpMFrsiyX5SQEJEVsVvi_7-R/view?usp=drivesdk">here</a>
