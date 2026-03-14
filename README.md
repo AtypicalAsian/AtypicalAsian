@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Nicolas Nguyen </b><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGkzbnVvNjU4OW45a25qOXlyeWYzanRhNDNkN2htaGppdXVvMndxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif" width="80"></h1>
+<h1 align="center"><b>Hi , I'm Nicolas Nguyen </b><img src="" width="80"></h1>
 Reach out to me at <a href="mailto:nicnguyen.work@proton.me">nicnguyen.work@proton.me</a> or <a href="https://www.linkedin.com/in/nic2702/">LinkedIn</a>
 
 ### About Me 🥸
@@ -34,5 +34,5 @@ View my resume <a href="https://drive.google.com/file/d/1leyBIqw0hpMFrsiyX5SQEJE
                 
 ---
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBsamE4OGExc2J4aHk4eDh3d3M1b3UyYnFxMGJ3cHNvOGxtMWU0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scGEXUBdf7G48/giphy.gif" width="100%" height="100%" style="border: 20px solid #000000; border-radius: 10px;" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJlY3BmMGFtaHc3eDFuNDRsMXVza2dkcGpvcGx5Z2l4bGxiYXFiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vg70zJvkOsSDWdOKLz/giphy.gif" width="100%" height="100%" style="border: 20px solid #000000; border-radius: 10px;" />
 </div>
