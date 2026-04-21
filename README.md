@@ -7,9 +7,6 @@ Reach out to me at <a href="mailto:nicnguyen.work@proton.me">nicnguyen.work@prot
 - 🦸🏻‍♂️ Marvel, DC and comics nerd  
 - Check out my <a href="https://nic-nguyen.com/">personal website</a> to get to know me better
 
-### Working on 🚀
-- Getting my AWS CPP and Associate Developer certifications
-
 ### My Resume
 View my resume <a href="https://drive.google.com/file/d/1leyBIqw0hpMFrsiyX5SQEJEVsVvi_7-R/view?usp=drivesdk">here</a>
 
