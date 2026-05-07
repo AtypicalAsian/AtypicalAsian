@@ -2,9 +2,9 @@
 Reach out to me at <a href="mailto:nicnguyen.work@proton.me">nicnguyen.work@proton.me</a> or <a href="https://www.linkedin.com/in/nic2702/">LinkedIn</a>
 
 ### About Me 🥸
-- 👨‍💻 Builder of software
-- ☁️ Interested in Cloud Computing and Distributed Systems
-- 🦸🏻‍♂️ Marvel, DC and comics nerd  
+- 👨‍💻 Full-stack engineer turned AI Builder
+- ☁️ Data Pipelines and Distributed Systems
+- 🦸🏻‍♂️ Yapper, Matcha Lover, Man United Supporter  
 - Check out my <a href="https://nic-nguyen.com/">personal website</a> to get to know me better
 
 ### My Resume
