@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Nicolas Nguyen </b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNms4ODkxMGlwNXV0aDUwdW9qMHRpNnpiODY4M3RxM3d5eHB5eGlpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pcUHgRNcUL3H8qmWEl/giphy.gif" width="80"></h1>
 
 ### About Me
-- Backend Systems & Applied AI
+- Backend Systems & AI Automation
 - Matcha Lover & Man United Supporter  
 - I code, think and write at <a href="https://nic-nguyen.com/">nic-nguyen.com</a>
 
