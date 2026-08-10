@@ -7,7 +7,7 @@
 
 ### Contact
 - Grab my resume <a href="https://drive.google.com/file/d/1leyBIqw0hpMFrsiyX5SQEJEVsVvi_7-R/view?usp=drivesdk">here</a>
-- Send a message at <a href="mailto:nicnguyen.work@proton.me">nicnguyen.work@proton.me</a> or <a href="https://www.linkedin.com/in/nic2702/">LinkedIn</a>
+- Connect with me on <a href="https://www.linkedin.com/in/nic2702/">LinkedIn</a> or send me an email at <a href="mailto:nicnguyen.work@proton.me">nicnguyen.work@proton.me</a>
 
 ---
 <div>
